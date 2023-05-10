@@ -13,5 +13,5 @@ Notes:
 -	The tool works by using the .mod file name inside the folder.
 - Make sure you have permissions to rename the workshop mod folders.
 -	The program will skip folders that contain more than one .mod file, as well as folders that do not have a .mod file at all. Additionally, if the selected folder is located within the "workshop\content" directory, it will   also be skipped.
--	Running the tool directly on "steamapps\workshop\content\233860\1621026948" will also be skipped.
+-	Running the tool directly on "steamapps\workshop\content\233860\" will also be skipped.
 -	After renaming, copy the folders to the "Kenshi\mods" folder if you plan to edit them via FCS or play offline. Be aware that conflicts may arise if a mod is - both in the "mods" folder and subscribed to via workshop? if     you plan to unsubscribe from the workshop mods maybe leave a favorite and like
