@@ -1,7 +1,8 @@
 # Kenshi-WorkshopMod-Folders-Renamer
 GUI using tkinter
 
-![Capture](https://github.com/KoukatsuMahoutsukai/Kenshi-WorkshopMod-Folders-Renamer/assets/123940777/0c0c7ece-7bab-4fcf-9e27-7cb65374c28e)
+![image](https://github.com/KoukatsuMahoutsukai/Kenshi-WorkshopMod-Folders-Renamer/assets/123940777/ae56fe20-fb9e-49fd-b4cc-c30ecc3a3725)
+
 
 
 This tool automatically renames workshop mod folders to match their corresponding .mod file name, which is necessary for editing via FCS and offline play. Normally, workshop mod folders are identified by their ID, such as "steamapps\workshop\content\233860\1621026948\Profitable Slavery.mod," but this format is not editable or playable offline. With this tool, the folder format will be changed to "Profitable Slavery\Profitable Slavery.mod."
